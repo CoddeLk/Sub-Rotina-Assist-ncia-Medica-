@@ -1,6 +1,6 @@
 # Sub-Rotina-Assist-ncia-Medica-
 
-Conheça melho o projeto !
+Conheça melhor o projeto !
 
 Este projeto consiste em uma classe Java chamada `CalculadoraSalario` que determina o tipo e o valor do desconto de assistência médica de um colaborador, com base em seu salário bruto. O programa calcula o desconto e o salário líquido e, em seguida, exibe os resultados.
 
